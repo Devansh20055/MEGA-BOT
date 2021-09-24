@@ -73,3 +73,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 # Support 
 <a href="https://t.me/mrkphelp"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/mrkpbots"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+## CREDITS
+
+- [MRKP BOTS](https://github.com/mrkpbots)
