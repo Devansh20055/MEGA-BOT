@@ -30,7 +30,7 @@ A Simple Telegram Bot By @mrkpbots to Download Files From Mega.nz and Upload It 
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrkpbots/MegaDL-Bot)
 
 ### Self Host
 
