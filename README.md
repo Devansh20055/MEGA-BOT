@@ -1,16 +1,16 @@
 # MegaDL-Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/mrkpbots/MegaDL-Bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/mrkpbots/MegaDL-Bot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/mrkpbots/MegaDL-Bot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/mrkpbots/MegaDL-Bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mrkpbots/MegaDL-Bot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/mrkpbots/MegaDL-Bot)
-![GitHub contributors](https://img.shields.io/github/contributors/mrkpbots/MegaDL-Bot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/mrkpbots/MegaDL-Bot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mrkpbots/MegaDL-Bot)
-![GitHub](https://img.shields.io/github/license/mrkpbots/MegaDL-Bot)
-[![Bot Updates](https://img.shields.io/badge/MegaDL-Bot%20Updates-blue)](https://t.me/mrkpbots)
-[![Bot Support](https://img.shields.io/badge/MegaDL-Bot%20Support%20Group-blue)](https://t.me/mrkphelp)
+![GitHub Repo stars](https://img.shields.io/github/stars/Devansh20055/MEGA-BOT?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Devansh20055/MEGA-BOT?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Devansh20055/MEGA-BOT)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Devansh20055/MEGA-BOT)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Devansh20055/MEGA-BOT)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Devansh20055/MEGA-BOT)
+![GitHub contributors](https://img.shields.io/github/contributors/Devansh20055/MEGA-BOT?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Devansh20055/MEGA-BOT?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Devansh20055/MEGA-BOT)
+![GitHub](https://img.shields.io/github/license/Devansh20055/MEGA-BOT)
+[![Bot Updates](https://img.shields.io/badge/MegaDL-Bot%20Updates-blue)](https://t.me/TEAM_SILENT_KING)
+[![Bot Support](https://img.shields.io/badge/MegaDL-Bot%20Support%20Group-blue)](https://t.me/OFF_CHATS)
 
 A Simple Telegram Bot By @mrkpbots to Download Files From Mega.nz and Upload It to Telegram
 
@@ -24,13 +24,13 @@ A Simple Telegram Bot By @mrkpbots to Download Files From Mega.nz and Upload It 
 - And More Features Coming Soon ...
 
 # Demo 
-<a href="https://youtube.com/channel/UCKcntT2R8QNJaRwhnQIgRfA"><img src="https://img.shields.io/badge/MegaDL_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+SOON 
 
 # Deploy
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrkpbots/MegaDL-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devansh20055/MEGA-BOT)
 
 ### Self Host
 
@@ -71,7 +71,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 
 # Support 
-<a href="https://t.me/mrkphelp"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/mrkpbots"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/off_chats"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/TEAM_SILENT_KING"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## CREDITS
 
